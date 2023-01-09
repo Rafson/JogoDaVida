@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoDaVida", "JogoDaVida\JogoDaVida.csproj", "{DCF0D28D-5DE7-4242-848C-B63076B1DCC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoDaVida.APPWindows", "JogoDaVida.APPWindows\JogoDaVida.APPWindows.csproj", "{64C61560-9497-44B8-93E4-4F2F5EFF6AD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCF0D28D-5DE7-4242-848C-B63076B1DCC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF0D28D-5DE7-4242-848C-B63076B1DCC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF0D28D-5DE7-4242-848C-B63076B1DCC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF0D28D-5DE7-4242-848C-B63076B1DCC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C61560-9497-44B8-93E4-4F2F5EFF6AD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C61560-9497-44B8-93E4-4F2F5EFF6AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C61560-9497-44B8-93E4-4F2F5EFF6AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C61560-9497-44B8-93E4-4F2F5EFF6AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A69C4B0C-5B6D-4DFF-B99B-65479BE630B3}
+	EndGlobalSection
+EndGlobal
